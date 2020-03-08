@@ -1,0 +1,34 @@
+﻿INTERFAZ:
+- El contenedor de los precios mide 768px de ancho. 
+- Tiene 30px de padding de cada lado.
+- Está centrado horizontalmente.
+- El body tiene como fondo el fondo.jpg (en la carpeta iconos)
+
+TITULO
+- El logo de la web usa la fuenta ANTON disponible en Google Web Fonts.
+- Es de color blanco ( #ffffff ), no se muestra en negrita y debe tener 50px de tamaño tipográfico.
+- Debe estar a 30px de la derecha y a 30px de abajo.
+- Para que se vea perfecto la taza, el contenedor debe tener 180px de tamaño final.
+- Tiene un borde de 5px abajo de color 
+
+CADA CAFE:
+- Ancho de cada columna de los cafés es de 230px
+- Padding de cada caja: 5px de arriba y abajo, 10px de cada lado (OJO no debe superar los 230px de ancho total).
+- Los títulos de cada cafe van centrados al igual que los precios.
+- Cada uno de los datos de los cafés tienen 3px de padding arriba/abajo y 5px de cada lado.
+
+COLORES DE FONDO:
+- Titulo Mini: #b6d872
+- Titulo Mediano: #60c9ef
+- Titulo Grande: #f1c155
+- Fila de por medio, el gris de fondo es: #ededed
+
+FUENTES:
+- Titulos de cada cafe: Verdana 15px de tamaño, negrita. Color blanco.
+- Precios: 'Trebuchet Ms' de 30px y negrita.
+- Resto de los textos: Tahoma de 13px.
+
+IMAGENES:
+- Los vasos son <img />
+- Las crucecitas, tildes e imagen del logo (del H1) son background-image
+- Las crucecitas y tildes necesitan 25px de ancho para verse bien y estar a 4px del borde izquierdo.
